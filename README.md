@@ -1,8 +1,9 @@
 # webpack-source
 example basic setup of webpack with source mapping for error tracing
 
-1. ```
+1. Run following 3 commands:
 
+```
 npm init -y
 npm install webpack --save-dev
 npm install webpack-cli --save-dev
