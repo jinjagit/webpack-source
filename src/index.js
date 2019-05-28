@@ -1,3 +1,7 @@
+import { aModule } from './aModule'
+
 let test = document.getElementById('test');
 
-test.innerHTML = 'Hello from index.js';
+test.innerHTML = 'Hellooo from index.js';
+
+aModule();
