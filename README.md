@@ -72,3 +72,5 @@ Uncaught ReferenceError: x is not defined
 ```
 
 NOTE: This example also includes addition of <code>"build": "webpack"</code> line to package.json (see file), to enable the <code>npm run build</code> command (alias for <code> npx webpack</code>). This is not necessary for the source-mapping feature to work.
+
+NOTE: For github.io to find index.html, follow [this gist](https://gist.github.com/cobyism/4730490)
