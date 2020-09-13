@@ -63,7 +63,7 @@ module.exports = {
 };
 ```
 
-11. Error stack trace should now work in browser console. E.g:
+11. Error stack trace should now work in browser console. (after npx restart) E.g:
 ```
 Uncaught ReferenceError: x is not defined
     at aModule (aModule.js:5)
